@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello everyone!  
 
-<!--
-**Melchor16/melchor16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mechatronics engineer with over eight years of experience in the metalworking industry, but I have always had a passion for programming. Here, you can find some of my personal projects, as well as exercises I have worked on to continue learning.  
 
-Here are some ideas to get you started:
+## Technologies I have experience with:  
+- **Python**  
+- **JavaScript**  
+- **PostgreSQL**  
+- **MongoDB**  
+- **Express.js**  
+- **React.js**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project  
+I am currently working on **Project XTR**, an application designed to organize songs and setlists for a band.  
+
+You can check out my progress here: [GitHub - Project XTR](https://github.com/Melchor16/project-xtr).  
